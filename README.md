@@ -1,4 +1,4 @@
-link rel="stylesheet" href="https://raw.githubusercontent.com/Mondonno/Mondonno/master/mondonno-readme.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Mondonno/Mondonno/master/mondonno-readme.css">
 
 <h3 align="center"><code>console.log("Hello, mortal.")</code></h3>
 <p align="left">I wouldn't be a clown saying I'm a software developer. I would be an entire circus. I mean, sure - I do know some stuff regarding node.js, discord.js, or whatever, but the code that comes out... oh boy... (I'm sorry nafcioo)</p>
