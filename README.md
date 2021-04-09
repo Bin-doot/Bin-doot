@@ -10,6 +10,7 @@
   <li> I'm a huge chemistry nerd. </li>
   <li> I love working with radiation. Is it dangerous? Yes it is. Is it fun? Yes it is. Conclusion? Danger is fun. ☢️ </li>
   <li> I DESPISE anime except for omori and doki doki literature club. Everything else can kiss my-</li>
+  <li> I'm a Chief Operating Officer of PEL LABORATORIES. You can support my work by joining my discord server: https://discord.gg/RynPSrqKm4</li>
 </ul><br>
 
 <ul>
