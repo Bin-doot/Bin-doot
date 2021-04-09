@@ -15,7 +15,7 @@
 
 <ul>
   <li> 📪 You can contact me via Discord: <b>Bin#4027</b></li>
-<li> Or you can just mail me: <a href="mailto:kubagil14@gmail.com"><b>mondonno.contact@gmail.com<b></a> </li>
+<li> Or you can just mail me: <a href="mailto:kubagil14@gmail.com"><b>kubagil14@gmail.com<b></a> </li>
   </ul>
   
   <p algin="center">
